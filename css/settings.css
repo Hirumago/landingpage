@@ -12,8 +12,8 @@ body {
   font-family: 'Karla', sans-serif;
   font-size: 14px;
   line-height: 1;
-  color: #1f1f1f;
-  background: #F8F8F8;
+  color: #dfe5e0;
+  background: #302e39;
 }
 
 h1,
@@ -26,6 +26,14 @@ h6 {
   margin: 0;
   line-height: 1;
   font-weight: 700;
+}
+
+h1, p, li{
+  color: #dfe5e0;
+}
+
+li p, h2{
+  color: #302e39;
 }
 
 h1 {
@@ -213,7 +221,7 @@ input[type="number"] {
 }
 
 .btn--primary {
-  background-color: #1290a4;
+  background-color: #7fcd27;
   color: #FFF;
 }
 
@@ -224,12 +232,12 @@ input[type="number"] {
 
 .btn-outlined--primary {
   background-color: transparent;
-  color: #1290a4;
-  border: 2px solid #1290a4;
+  color: #7fcd27;
+  border: 2px solid #7fcd27;
 }
 
 .btn-outlined--primary:hover {
-  background-color: #1290a4;
+  background-color: #7fcd27;
   color: #fff;
 }
 
@@ -256,12 +264,12 @@ input[type="number"] {
 }
 
 .btn--white {
-  color: #1290a4;
+  color: #7fcd27;
   background-color: #ffffff;
 }
 
 .btn--white:hover {
-  color: #1290a4;
+  color: #7fcd27;
   background-color: rgba(255, 255, 255, 0.8);
 }
 

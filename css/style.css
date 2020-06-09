@@ -31,13 +31,13 @@
     font-size: 16px;
     font-weight: 400;
     letter-spacing: -0.4px;
-    color: #1f1f1f;
+    color: #7fcd27;
     padding: 18px;
   }
 }
 
 .main-menu > li > a:hover {
-  color: #1290a4;
+  color: #7fcd27;
 }
 
 @media (min-width: 992px) {
@@ -95,12 +95,12 @@
 
 @media (min-width: 992px) {
   .main-menu .menu-dropdown .single-item:hover a h3 {
-    color: #1290a4;
+    color: #7fcd27;
   }
 }
 
 .main-menu .menu-dropdown .single-item a h3 {
-  color: #1f1f1f;
+  color: #7fcd27;
   font-size: 16px;
   font-weight: 700;
   letter-spacing: -0.4px;
@@ -165,7 +165,7 @@
   width: 137px;
   height: 40px;
   border-radius: 3px;
-  background-color: #1290a4;
+  background-color: #7fcd27;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -202,7 +202,7 @@
   text-indent: 0 !important;
   position: relative;
   font-size: 21px;
-  color: #1f1f1f;
+  color: #7fcd27;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -344,7 +344,6 @@
 
 .hero-content h1 {
   margin-bottom: 19px;
-  color: #1f1f1f;
   font-weight: 700;
   letter-spacing: -4px;
   font-size: 45px;
@@ -391,7 +390,7 @@
 }
 
 .hero-content p {
-  color: #222f3f;
+  /*color: #222f3f;*/
   font-size: 21px;
   font-weight: 400;
   letter-spacing: -0.4px;
@@ -436,7 +435,7 @@
   height: 60px;
   color: #666666;
   border-radius: 5px;
-  background: rgba(18, 144, 164, 0.07);
+  background: rgba(127, 205, 39, 0.07);
   padding-left: 17px;
   border-color: transparent;
 }
@@ -482,7 +481,7 @@
   font-weight: 700;
   letter-spacing: -1.12px;
   border-radius: 3px;
-  background-color: #1290a4;
+  background-color: #7fcd27;
   width: 100%;
   margin-top: 10px;
   height: 50px;
@@ -507,7 +506,7 @@
 }
 
 .hero-form .form-text a {
-  color: #1290a4;
+  color: #7fcd27;
 }
 
 .hero-form .form-text a:hover {
@@ -537,7 +536,7 @@
     Feature Section
 //////////////////////////// */
 .feature-section {
-  background-color: #eef4f5;
+  background-color: #dfe5e0;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -613,8 +612,8 @@
   width: 80px;
   height: 80px;
   border-radius: 500px;
-  background-color: rgba(244, 111, 124, 0.1);
-  color: #f46f7c;
+  background-color: rgba(127, 205, 39, 0.1);
+  color: #7fcd27;
   font-size: 35px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -646,7 +645,7 @@
 }
 
 .feature-card .card-content h3 {
-  color: #1f1f1f;
+  color: #7fcd27;
   margin-bottom: 20px;
   font-size: 28px;
   font-weight: 700;
@@ -691,7 +690,7 @@
   min-width: 0;
   padding-left: 0;
   height: auto;
-  color: #1290a4;
+  color: #7fcd27;
 }
 
 .feature-card .card-content .btn-link i {
@@ -719,7 +718,7 @@
     Content Sections
 //////////////////////////// */
 .content-section-01 {
-  background-color: #f8f8f8;
+  background-color: #dfe5e0;
   padding: 60px 0 0px;
 }
 
@@ -730,7 +729,7 @@
 }
 
 .content-section-02 {
-  background-color: #f8f8f8;
+  background-color: #dfe5e0;
   padding: 40px 0 55px;
 }
 
@@ -742,7 +741,7 @@
 
 .content-section-03 {
   padding: 67px 0 93px;
-  background-color: #fefdfd;
+  background-color: #dfe5e0;
   position: relative;
 }
 
@@ -901,7 +900,7 @@
   min-width: 170px;
   height: 50px;
   border-radius: 3px;
-  background-color: #f46f7c;
+  background-color: #7fcd27;
   font-size: 17px;
   font-weight: 700;
   letter-spacing: -1.06px;
@@ -950,7 +949,7 @@
   font-weight: 700;
   letter-spacing: -0.4px;
   line-height: 28px;
-  color: #1290a4;
+  color: #7fcd27;
 }
 
 .content-link a i {
@@ -964,7 +963,7 @@
 }
 
 .content-link a:hover i {
-  color: #1290a4;
+  color: #7fcd27;
   margin-left: 20px;
 }
 
@@ -1001,7 +1000,7 @@
 .content-list li span i {
   font-size: inherit;
   font-weight: 900;
-  color: #1290a4;
+  color: #7fcd27;
   position: relative;
   top: 5px;
 }
@@ -1033,7 +1032,7 @@
 .pricing-section {
   padding-top: 45px;
   padding-bottom: 68px;
-  background-color: #30393b;
+  background-color: #302e39;
   position: relative;
 }
 
@@ -1094,7 +1093,7 @@
 }
 
 .pricing-card .card-head h2 .small-title {
-  color: #1f1f1f;
+  color: #7fcd27;
   font-family: 'Karla', sans-serif;
   font-size: 30px;
   font-weight: 700;
@@ -1102,7 +1101,7 @@
 }
 
 .pricing-card .card-head h2 .big-txt {
-  color: #1f1f1f;
+  color: #7fcd27;
   font-family: 'Karla', sans-serif;
   font-size: 50px;
   font-weight: 700;
@@ -1115,7 +1114,7 @@
 }
 
 .pricing-card .card-head h2 .month {
-  color: #1f1f1f;
+  color: #7fcd27;
   font-family: 'Karla', sans-serif;
   font-size: 17px;
   font-weight: 700;
@@ -1132,7 +1131,7 @@
 }
 
 .pricing-card .card-content .pricing-list li {
-  color: #1f1f1f;
+  color: #7fcd27;
   font-family: 'Karla', sans-serif;
   font-size: 17px;
   font-weight: 400;
@@ -1145,7 +1144,7 @@
   width: 18px;
   height: 18px;
   font-size: 18px;
-  color: #1f1f1f;
+  color: #7fcd27;
   border-radius: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1183,7 +1182,7 @@
   position: absolute;
   top: 30px;
   right: 45px;
-  background-color: #f46f7c;
+  background-color: #7fcd27;
   border-radius: 500px;
   height: 26px;
   color: #fff;
@@ -1245,7 +1244,7 @@
 }
 
 .pricing-card.active {
-  border-top: 5px solid #f46f7c;
+  border-top: 5px solid #7fcd27;
 }
 
 .btn--toggle-pricing {
@@ -1396,7 +1395,7 @@
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background-color: #1290a4;
+  background-color: #7fcd27;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -1414,7 +1413,7 @@
 [class*='btn--toggle-'] input:checked + .slider:before {
   -webkit-transform: translateX(21px) translateY(-50%);
           transform: translateX(21px) translateY(-50%);
-  background-color: #1290a4;
+  background-color: #7fcd27;
 }
 
 [class*='btn--toggle-'] .slider.round {
@@ -1451,6 +1450,7 @@
 //////////////////////////// */
 .footer-section {
   padding: 50px 0;
+  background-color: #dfe5e0;
 }
 
 @media (min-width: 768px) {
@@ -1494,7 +1494,7 @@
 }
 
 .footer-newsletter-content h2 {
-  color: #000000;
+  color: #302e39;
   font-size: 48px;
   font-weight: 700;
   letter-spacing: -3px;
@@ -1546,7 +1546,7 @@
   height: 60px;
   color: #666666;
   border-radius: 5px;
-  background: rgba(18, 144, 164, 0.07);
+  background: rgba(127, 205, 39, 0.07);
   padding-left: 17px;
   border-color: transparent;
 }
@@ -1592,7 +1592,7 @@
   font-weight: 700;
   letter-spacing: -1.12px;
   border-radius: 3px;
-  background-color: #1290a4;
+  background-color: #7fcd27;
   width: 100%;
   margin-top: 10px;
   height: 50px;
@@ -1679,7 +1679,7 @@
 }
 
 .footer-social-list li a {
-  color: #000;
+  color: #7fcd27;
   font-size: 18px;
 }
 
@@ -1690,7 +1690,7 @@
   line-height: 20px;
   padding-top: 12px;
   padding-bottom: 7px;
-  color: #1f1f1f;
+  color: #7fcd27;
 }
 
 .footer-list li:first-child a {
