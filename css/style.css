@@ -18,6 +18,10 @@
   margin: 0 -18px;
 }
 
+.site-header h2 {
+  color: #ffffff;
+}
+
 @media (min-width: 992px) {
   .main-menu {
     display: -webkit-box;
@@ -1491,12 +1495,12 @@
   font-weight: 600;
   letter-spacing: 2.63px;
   text-transform: uppercase;
-  color: #666666;
+  color: #ffffff;
   margin-bottom: 35px;
 }
 
 .footer-newsletter-content h2 {
-  color: #302e39;
+  color: #ffffff;
   font-size: 48px;
   font-weight: 700;
   letter-spacing: -3px;
@@ -1505,7 +1509,7 @@
 }
 
 .footer-newsletter-content p {
-  color: #666666;
+  color: #ffffff;
   font-size: 21px;
   font-weight: 400;
   letter-spacing: -0.4px;
@@ -1546,7 +1550,7 @@
 
 .footer-newsletter-form .form-group input {
   height: 60px;
-  color: #666666;
+  color: #ffffff;
   border-radius: 5px;
   background: rgba(127, 205, 39, 0.07);
   padding-left: 17px;
@@ -1562,28 +1566,28 @@
 }
 
 .footer-newsletter-form .form-group input::-webkit-input-placeholder {
-  color: #878b90;
+  color: #ffffff;
   font-size: 18px;
   font-weight: 400;
   letter-spacing: -0.9px;
 }
 
 .footer-newsletter-form .form-group input:-ms-input-placeholder {
-  color: #878b90;
+  color: #ffffff;
   font-size: 18px;
   font-weight: 400;
   letter-spacing: -0.9px;
 }
 
 .footer-newsletter-form .form-group input::-ms-input-placeholder {
-  color: #878b90;
+  color: #ffffff;
   font-size: 18px;
   font-weight: 400;
   letter-spacing: -0.9px;
 }
 
 .footer-newsletter-form .form-group input::placeholder {
-  color: #878b90;
+  color: #ffffff;
   font-size: 18px;
   font-weight: 400;
   letter-spacing: -0.9px;
@@ -1611,7 +1615,7 @@
 }
 
 .footer-newsletter-form .form-text {
-  color: #666666;
+  color: #ffffff;
   font-size: 15px;
   font-weight: 400;
   letter-spacing: -0.43px;
@@ -1626,7 +1630,7 @@
 }
 
 .single-footer .footer-text p {
-  color: #666666;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: -0.4px;
@@ -1649,11 +1653,12 @@
   }
 }
 
-.footer-title h6 {
-  color: #666666;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 28px;
+.footer-title h4 {
+  color: #7fcd27;
+}
+
+.footer-title h2 {
+  color: #ffffff;
 }
 
 .footer-text {
@@ -1692,7 +1697,7 @@
   line-height: 20px;
   padding-top: 12px;
   padding-bottom: 7px;
-  color: #7fcd27;
+  color: #ffffff;
 }
 
 .footer-list li:first-child a {
