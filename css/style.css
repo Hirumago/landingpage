@@ -1240,7 +1240,9 @@
 }
 
 .pricing-card .card-btn .btn--primary:hover {
-  background-color: #0d41e9;
+  background-color: white;
+  color: #7fcd27;
+  border: 2px solid #7fcd27;
 }
 
 .pricing-card.active {
