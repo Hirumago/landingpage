@@ -1651,11 +1651,8 @@
   }
 }
 
-.footer-title h6 {
-  color: #ffffff;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 28px;
+.footer-title h4 {
+  color: #7fcd27;
 }
 
 .footer-title h2 {
@@ -1698,7 +1695,7 @@
   line-height: 20px;
   padding-top: 12px;
   padding-bottom: 7px;
-  color: #7fcd27;
+  color: #ffffff;
 }
 
 .footer-list li:first-child a {
